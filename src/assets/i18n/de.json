@@ -5,13 +5,13 @@
   },
   "NAV": {
     "DASHBOARD": "Dashboard",
-    "TOURS": "Touren",
+    "TOURS": "Tours",
     "INVOICES": "Rechnungen",
     "SETTINGS": "Einstellungen"
   },
   "DASHBOARD": {
     "TITLE": "Dashboard",
-    "TOURS": "Touren",
+    "TOURS": "Tours",
     "TOTAL_INVOICES": "Rechnungen gesamt",
     "DRAFTS": "Entwürfe",
     "REVENUE": "Gesamtumsatz",
