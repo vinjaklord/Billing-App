@@ -69,7 +69,7 @@ The `MailPoller` runs on a configurable interval (default 5 min) in the main pro
 
 ---
 
-## Internationalisation
+## Internationalisation (i18n)
 
 `@ngx-translate/core` 15 with an HTTP JSON loader. Translation files at `src/assets/i18n/de.json` (default) and `en.json`. Language can be switched at runtime; invoices carry their own `language` field so PDF output matches the customer's locale independently of the UI language.
 
